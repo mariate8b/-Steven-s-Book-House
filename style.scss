@@ -1,0 +1,29 @@
+/*Variable for Text color*/
+$Text-color: red;
+$text-size: 100px;
+$border: medium dashed rgb(242, 218, 6);
+
+
+h1{
+    color: $Text-color;
+    font-size: $text-size;
+    border: $border;
+
+    
+}
+h2{
+    color:$Text-color
+}
+table{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 75px;
+    margin: 100px;
+}
+
+img{
+    width: 75px;
+}
+p{
+    color: white;
+}
